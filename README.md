@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-📫 How to reach me: aleksandar.popovic.popac@gmail.com
+📫 How to reach me: aleksandar.popovic.popac@gmail.com/+381615553652
+
+💬 Ask me about: anything
+
+⚡ Fun fact: I like to play drums
 
 <!--
 **popac/popac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-📫 How to reach me: aleksandar.popovic.popac@gmail.com
+- 📫 How to reach me: aleksandar.popovic.popac@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
