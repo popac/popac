@@ -11,7 +11,6 @@ My name is Aleksandar Popovic and I'm a software developer engineer.
 
 ## 🔧 Things I code with
 <p>
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-FCAA00?style=flat-square&logo=JavaScript&logoColor=white" />
