@@ -2,11 +2,12 @@
 
 My name is Aleksandar Popovic and I'm a software developer engineer.
 
-📫 How to reach me: aleksandar.popovic.popac@gmail.com/+381615553652
-
 💬 Ask me about: anything
 
 ⚡ Fun fact: I like to play drums
+
+### 📫 Where to find me
+- [LinkedIn](https://www.linkedin.com/in/skelarsy/) 👨💼
 
 ## 🔧 Things I code with
 <p>
